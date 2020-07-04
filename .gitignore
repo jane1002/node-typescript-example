@@ -1,0 +1,8 @@
+node_modules
+.idea
+test.ts
+*.csv
+.env
+.DS_Store
+.vscode
+build/
